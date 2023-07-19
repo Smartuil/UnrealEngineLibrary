@@ -32,7 +32,7 @@
 30. [独立程序](readme/du-li-cheng-xu.md)
 31. [插件](readme/cha-jian.md)
 32. [UI](readme/ui.md)
-33. [动画](readme/dong-hua.md)
+33. [动画](readme/dong-hua/)
 34. [Character组件](readme/character-zu-jian.md)
 35. [摄像机](readme/she-xiang-ji.md)
 36. [GAS](readme/gas.md)

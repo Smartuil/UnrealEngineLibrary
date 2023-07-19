@@ -17,3 +17,15 @@
 {% embed url="https://zhuanlan.zhihu.com/p/367317729" %}
 
 {% embed url="https://www.zhihu.com/people/OrzGame/posts?page=2" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/545596818" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/446851284" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/357650112" %}
+
+{% embed url="https://www.gameanim.com/" %}
+
+{% embed url="https://www.youtube.com/watch?v=YlKA22Hzerk" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/532483062" %}
