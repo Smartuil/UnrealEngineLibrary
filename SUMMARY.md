@@ -36,6 +36,7 @@
   * [动画](readme/dong-hua/README.md)
     * [Motion Warping](readme/dong-hua/motion-warping.md)
     * [StrideWarping](readme/dong-hua/stridewarping.md)
+    * [OrientationWarping](readme/dong-hua/orientationwarping.md)
     * [URO](readme/dong-hua/uro.md)
   * [Character组件](readme/character-zu-jian.md)
   * [摄像机](readme/she-xiang-ji.md)
