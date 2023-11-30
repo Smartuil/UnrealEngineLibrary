@@ -45,4 +45,4 @@
 43. [Bounds](readme/bounds.md)
 44. [Lyra](readme/lyra.md)
 45. [渲染](readme/xuan-ran.md)
-46. BeginPlay系列
+46. [BeginPlay系列](readme/beginplay-xi-lie.md)
