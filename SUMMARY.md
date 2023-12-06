@@ -50,5 +50,6 @@
   * [Bounds](readme/bounds.md)
   * [Lyra](readme/lyra.md)
   * [渲染](readme/xuan-ran/README.md)
-    * [\[CPU\] Frame1](readme/xuan-ran/cpu-frame1.md)
+    * [\[CPU\] Frame1](readme/xuan-ran/cpu-frame1/README.md)
+      * [HZB](readme/xuan-ran/cpu-frame1/hzb.md)
   * [BeginPlay系列](readme/beginplay-xi-lie.md)
