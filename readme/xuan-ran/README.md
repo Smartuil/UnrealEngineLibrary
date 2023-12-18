@@ -33,7 +33,7 @@ layout:
 
 {% embed url="https://docs.unrealengine.com/5.2/zh-CN/render-dependency-graph-in-unreal-engine/" %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://papalqi.cn/ue4renderingdependencygraph/" %}
 
@@ -54,3 +54,15 @@ layout:
 {% embed url="https://zhuanlan.zhihu.com/p/614758211" %}
 
 {% embed url="https://www.cnblogs.com/timlly/p/14732412.html#431-fscenerenderer" %}
+
+{% hint style="info" %}
+至于什么是RDG简单介绍一下吧，在当今游戏渲染流程里面可能会有很多的特性比如SSR，SSAO，Volumetric等等。它们之间的引用关系比如SSAO需要GBuffer的Normal而SSR需要Normal和Microface，而这两个Pass之间又隔了不知道多少个Pass甚至隔了前后帧，这个时候爪动的维护上下层Pass的引用关系和资源的释放就显得无比麻烦，因此RG孕育而生。这个架构思想最初是又寒霜引擎分享的，基本可以理解为一个系统自动管理你每个资源的创建和销毁以及Pass之间的资源引用和复用，以及剔除掉没有连接到FinalColor的Pass，做到不浪费任何一个系统资源从而达到极致的解耦和系统资源占用。
+{% endhint %}
+
+{% embed url="https://docs.unrealengine.com/5.3/zh-CN/graphics-programming-overview-for-unreal-engine/" %}
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://zhuanlan.zhihu.com/p/508372052" %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
