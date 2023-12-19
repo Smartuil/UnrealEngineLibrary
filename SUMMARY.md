@@ -53,4 +53,5 @@
     * [\[CPU\] Frame1](readme/xuan-ran/cpu-frame1/README.md)
       * [HZB](readme/xuan-ran/cpu-frame1/hzb.md)
       * [PVS](readme/xuan-ran/cpu-frame1/pvs.md)
+      * [遮挡剔除](readme/xuan-ran/cpu-frame1/zhe-dang-ti-chu.md)
   * [BeginPlay系列](readme/beginplay-xi-lie.md)
