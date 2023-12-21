@@ -72,3 +72,23 @@ layout:
 {% embed url="https://www.bilibili.com/read/cv18682530/" %}
 
 {% embed url="https://zhuanlan.zhihu.com/p/33865743" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/612930825" %}
+
+{% embed url="https://www.bilibili.com/video/BV1yb411c7in/?spm_id_from=333.999.0.0&vd_source=f6f10dd471e4def1b221dadd178c9730" %}
+
+{% embed url="https://www.sohu.com/a/272722003_332741" %}
+
+{% embed url="https://www.bilibili.com/video/BV1Tt4y1H7kQ/?spm_id_from=333.999.0.0" %}
+
+{% embed url="https://www.bilibili.com/video/BV1wv4y1G7P8/?spm_id_from=333.999.0.0" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/157101737" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/157417868" %}
+
+{% embed url="https://www.bilibili.com/video/BV1CN411X7Ak?p=1&vd_source=f6f10dd471e4def1b221dadd178c9730" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/665746587" %}
+
+{% embed url="https://www.cnblogs.com/timlly/p/14817455.html" %}
