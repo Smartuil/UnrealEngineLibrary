@@ -9,6 +9,3 @@
 {% embed url="https://www.gradientspace.com/tutorials/2020/9/21/command-line-geometry-processing-with-unreal-engine" %}
 
 {% embed url="https://zhuanlan.zhihu.com/p/345724236" %}
-
-{% embed url="https://medium.com/@lordned" %}
-
