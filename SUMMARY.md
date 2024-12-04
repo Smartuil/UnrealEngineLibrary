@@ -38,6 +38,7 @@
     * [StrideWarping](readme/dong-hua/stridewarping.md)
     * [OrientationWarping](readme/dong-hua/orientationwarping.md)
     * [URO](readme/dong-hua/uro.md)
+    * [Foot Placement](readme/6fro81f/foot-placement.md)
   * [Character组件](readme/character-zu-jian.md)
   * [摄像机](readme/she-xiang-ji.md)
   * [GAS](readme/gas.md)
